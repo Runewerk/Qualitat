@@ -4,7 +4,7 @@ title: Enlaces útiles
 ---
 
 <section class="useful-links">
-    <h2>Transparencia y acceso a la información</h2>
+    <h2>TransparenciA y acceso a la información</h2>
         <div class="about-content service-card">
           <p>
             En cumplimiento con la Norma Paraguaya NP-ISO/IEC 17065, ponemos a disposición del público información relevante sobre nuestro sistema de certificación.</br>
