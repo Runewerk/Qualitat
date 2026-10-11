@@ -26,7 +26,7 @@ title: Enlaces útiles
                 <p><a href="/files/QUEJAS Y APELACIONES-06.docx" target="_blank">Instructivo para Procedimiento Quejas y Apelaciones</a></p>
                 <p><a href="/files/QUEJAS Y APELACIONES PARA USUARIOS-15.docx" target="_blank">Formulario para Procedimiento Quejas y Apelaciones</a></p>
                 <p><a href="/files/SOLICITUD DE CERTIFICACION DE PILAS Y BATERIAS-29.docx" target="_blank">Solicitud de Certificacion de Lote de Pilas y Baterias</a></p>
-                <p><a href="/files/FL-CER-39-08.2026.pdf" target="_blank">Nomina de Certificacion de Lotes de Productos</a></p>
+                <p><a href="/files/FL-CER-39-09.2026.pdf" target="_blank">Nomina de Certificacion de Lotes de Productos</a></p>
               </div>
             </div>
 </section>
